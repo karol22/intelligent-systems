@@ -1,0 +1,32 @@
+Aguascalientes,Jalisco,Zacatecas
+Baja California,Baja California Sur,Sonora
+Baja California Sur,Baja California
+Campeche,Quintana Roo,Tabasco,Yucatán
+Chiapas,Oaxaca,Tabasco,Veracruz
+Chihuahua,Coahuila,Durango,Sinaloa,Sonora
+Ciudad de México,Estado de México,Morelos
+Coahuila,Chihuahua,Durango,Nuevo León,Zacatecas
+Colima,Jalisco,Michoacán
+Durango,Chihuahua,Coahuila,Nayarit,Sinaloa,Zacatecas
+Estado de México,Ciudad de México,Guerrero,Hidalgo,Michoacán,Morelos,Puebla,Querétaro,Tlaxcala 
+Guanajuato,Jalisco,Michoacán,Querétaro,San Luis Potosí,Zacatecas
+Guerrero,Estado de México,Morelos,Oaxaca,Puebla
+Hidalgo,Estado de México,Puebla,Querétaro,San Luis Potosí,Tlaxcala,Veracruz,
+Jalisco,Aguascalientes,Colima,Guanajuato,Michoacán,Nayarit,San Luis Potosí,Zacatecas
+Michoacán,Colima,Estado de México,Guerrero,Jalisco,Guanajuato,Querétaro,
+Morelos,Ciudad de México,Estado de México,Guerrero,Puebla
+Nayarit,Durango,Jalisco,Sinaloa,Zacatecas
+Nuevo León,Coahuila,San Luis Potosí,Tamaulipas,Zacatecas
+Oaxaca,Puebla,Veracruz,Chiapas,Guerrero
+Puebla,Estado de México,Guerrero,Hidalgo,Morelos,Oaxaca,Tlaxcala,Veracruz
+Querétaro,Estado de México,Guanajuato,Hidalgo,Michoacán,San Luis Potosí,
+Quintana Roo,Campeche,Yucatán
+San Luis Potosí,Guanajuato,Hidalgo,Nuevo León,Querétaro,Tamaulipas,Veracruz,Zacatecas
+Sinaloa,Chihuahua,Durango,Nayarit,Sonora
+Sonora,Baja California,Chihuahua,Sinaloa
+Tabasco,Campeche,Chiapas,Veracruz
+Tamaulipas,Nuevo León,San Luis Potosí,Veracruz
+Tlaxcala,Estado de México,Hidalgo,Puebla
+Veracruz,Chiapas,Hidalgo,Oaxaca,Puebla,Tamaulipas,San Luis Potosí,Tabasco
+Yucatán,Campeche,Quintana Roo
+Zacatecas,Aguascalientes,Coahuila,Durango,Guanajuato,Jalisco,Nayarit,Nuevo León,San Luis Potosí

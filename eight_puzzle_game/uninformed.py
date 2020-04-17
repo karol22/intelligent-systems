@@ -34,8 +34,8 @@ def move(mat, direction, i, j):
             return i, j+1
     return i, j
 
-# Generate all moves from 
-def all_moves(mat_str):  
+# Generate all configurations for una state
+def next_steps(mat_str):  
     m_list = eval(mat_str)   
     possible_matrices = [] 
     i = 0
@@ -67,13 +67,13 @@ def bfs(start,goal):
         i = 0
         for j in range(1, len(queue)):
             if len(queue[i]) > len(queue[j]):
-                i = j
+                i=j
         path = queue[i]         
         queue = queue[0:i] + queue[i+1:]
         front = path[-1]
         if front in nodes: 
             continue
-        for step in all_moves(front):
+        for step in next_steps(front):
             if step in nodes: 
                 continue
             queue.append(path + [step])

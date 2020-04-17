@@ -1,0 +1,16 @@
+Implement in python the following Bayesian network. This network models the marks (m) of a student on his examination for admission into a university.
+The variables of this model represent the following:
+
+Exam level (e): This is a discrete variable that can take two values, (difficult, easy).
+IQ of the student (i): A discrete variable that can take two values (low, high).
+Aptitude score (s): A discrete variable that can take two values (low, high).
+Mark (m): A discrete variable that can take two values (low, high).
+Admission to the university (a): A discrete variable that can take two values (accepted, rejected).
+Print all the joint probabilities of this model.
+
+If you answer the following questions, you will get 20 extra points in this homework:
+
+What is the probability of having a high IQ given that you were accepted into the university?
+What is the probability of being accepted?
+What is the probability of being accepted if you have a low aptitude score?
+This problem was taken from https://www.edureka.co/blog/bayesian-networks/

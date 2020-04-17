@@ -1,0 +1,19 @@
+In this problem, you will write a program that analyzes the characteristics of various states in Mexico. For this exercise, create text files with the following data:
+
+Which states are adjacent to each other.
+States with high crime rates.
+States with severe drought.
+States where smart people live.
+States with large populations that prefer to drink brandy instead of beer.
+Agricultural states.
+Industrialized states.
+Write a program in Python that loads the text files that you created for this exercise. Then, using logic programming, answer the following questions:
+
+What states have high crime rates and have a severe drought?
+What states are adjacent to the states with people that prefer to drink brandy?
+What states are industrialized and are good places for smart people?
+What states are adjacent to the agricultural states or adjacent to industrialized states?
+What states are adjacent to both Estado de México and Ciudad de México?
+What agricultural states have severe drought and high crime rates?
+What states are adjacent to a state with high crime rates?
+What states have smart people or have large populations that prefer to drink brandy?
